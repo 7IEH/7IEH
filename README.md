@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7IEH&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7IEH&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=7IEH&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7IEH&layout=compact&theme=tokyonight)
 <!--
 **7IEH/7IEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
