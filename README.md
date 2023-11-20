@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youkitea)](https://solved.ac/youkitea/)
+---
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=youkitea)](https://github.com/youkitea/velog-readme-stats)
